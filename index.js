@@ -1,28 +1,40 @@
 // Project data - can be easily updated
 const projects = [
     {
-        title: "Inventory Management System",
-        description: "A full-stack application for tracking inventory with user authentication, built with Node.js, Express, and MongoDB.",
+        title: "Presentation Viewer",
+        description: "A full-stack application for viewing and navigating presentations, built with Express, EJS, and Vue.js for a seamless user experience.",
         course: "Database Programmer",
-        github: "https://github.com/username/inventory-management"
+        github: "https://github.com/PLayzGreninja/presentation-viewer.git"
     },
     {
-        title: "Student Registration Portal",
-        description: "Web application for student registration with course selection, built with PHP and MySQL.",
+        title: "Product Management System",
+        description: "A web application for managing products, inventory, and categories, built with PHP and MySQL.",
         course: "Computer Programmer",
-        github: "https://github.com/username/student-registration"
+        github: "https://github.com/PLayzGreninja/Product-Management-System.git"
+    },
+    {
+        title: "Cafe Management App",
+        description: "A desktop application for managing cafe orders and inventory, built with C# and WinForms.",
+        course: "Computer Programmer Assistant",
+        github: "https://github.com/PLayzGreninja/CafeManagement.git"
     },
     {
         title: "Task Management App",
-        description: "A React-based task management application with drag-and-drop functionality and local storage.",
+        description: "A task management application for Computer Programmer Assistant, built with React and local storage, featuring drag-and-drop functionality.",
         course: "Computer Programmer Assistant",
-        github: "https://github.com/username/task-manager"
+        github: "https://github.com/PLayzGreninja/Task_Managerv2.1.git"
     },
     {
-        title: "IT Support Ticket System",
-        description: "A ticketing system for IT support teams to track and resolve issues, built with Python and Django.",
+        title: "A Simple Recipe from the Heart",
+        description: "A Static website that showcases simple, heartwarming recipes with easy instructions.",
         course: "Information Technology Assistant",
-        github: "https://github.com/PLayzGreninja/Project-2.git"
+        github: "https://github.com/PLayzGreninja/A_Simple_Recipe_fromtheHeart.git"
+    },
+    {
+        title: "Playz Pizzaria Web App",
+        description: "A Static website for Playz Pizzaria that displays a dynamic pizza menu with descriptions and GitHub integration.",
+        course: "Information Technology Assistant",
+        github: "https://github.com/PLayzGreninja/Playz_Pizzaria.git"
     }
 ];
 
